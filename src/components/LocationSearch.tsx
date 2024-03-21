@@ -48,6 +48,12 @@ export default function LocationSearch({ onPlaceClick }: LocationSearchProps) {
           );
         })}
       </div>
+      <div className="design">
+        <span></span>
+        <strong>
+            Design By || <a href="https://www.linkedin.com/in/khuman-praful-789a42244/"> Khuman Praful </a>
+        </strong>
+      </div>
     </div>
   );
 }

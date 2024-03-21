@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.design{
+    display: grid;
+    grid-template-rows: 26rem 1rem;
+}
